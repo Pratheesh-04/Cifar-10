@@ -1,0 +1,1 @@
+dir/cifar10_cnn_tuning/**/checkpoint* filter=lfs diff=lfs merge=lfs -text
